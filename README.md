@@ -136,7 +136,7 @@ Key features:
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/poola-parthasaradhi-ab56b4232">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
