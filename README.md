@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poola Partha</h1>
+<h1 align="center">Hi 👋, I'm Poola Parthasarathi</h1>
 
 <h3 align="center">
 Full Stack Java Developer | Spring Boot + React | Healthcare Domain
