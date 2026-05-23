@@ -63,8 +63,10 @@ I am currently improving my skills in **Spring Boot + React full stack developme
 
 ## 📌 Featured Projects
 
-### 🌾 RythuLink AI
+### 🌾 [RythuLink AI](https://github.com/Poola-023/RythuLink)
 AI-assisted farmer and marketplace web application.
+
+Live Demo: https://rythu-link.vercel.app/
 
 **Tech Stack:** Spring Boot, React, PostgreSQL, REST APIs, AI features
 
