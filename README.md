@@ -5,7 +5,7 @@ Full Stack Java Developer | Spring Boot + React | Healthcare Domain
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Poola-023&label=Profile%20Views&color=0e75b6&style=flat" alt="Poola-023" />
+  <img src="https://komarev.com/ghpvc/?username=Poola-023&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400" />
 </p>
 
 ---
