@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poola Parthasarathi</h1>
 
-<h3 align="center">
-Full Stack Java Developer | Spring Boot + React | Healthcare Domain
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Poola-023&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7C3AED&height=220&section=header&text=Poola%20Parthasarathi&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Java%20Developer&descAlignY=58&descSize=20" alt="Poola Parthasarathi header" />
@@ -41,6 +33,12 @@ Full Stack Java Developer | Spring Boot + React | Healthcare Domain
 ---
 
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Poola-023&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400" />
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Poola-023&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400" />
+</p>
 
 I am a **Full Stack Java Developer with 3.5+ years of experience**, building reliable backend services and responsive web applications. My professional experience includes the **healthcare domain**, REST API development, database integration, debugging, and production support.
 
