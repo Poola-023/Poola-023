@@ -33,9 +33,7 @@
 ---
 
 ## 👨‍💻 About Me
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Poola-023&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400" />
-</p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Poola-023&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400" />
 </p>
