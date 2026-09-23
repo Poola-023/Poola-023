@@ -73,7 +73,7 @@ I am a **Full Stack Java Developer with 3.5+ years of experience**, building rel
 | Project | What it solves | Core stack |
 |---|---|---|
 | 🌾 **[RythuLink AI](https://github.com/Poola-023/RythuLink)** · [Live Demo](https://rythu-link.vercel.app/) | An AI-assisted agriculture marketplace with Farmer, Buyer, and Admin roles, crop management, orders, weather insights, and an AI crop advisor. | Spring Boot, React, PostgreSQL, AI |
-| 🐾 **[Pet Connect](https://github.com/Poola-023/PetConnetUpdatedVersion)** | A pet e-commerce platform with user and vendor workflows, products, cart, checkout, payments, real-time chat, and voice/video calling. | Spring Boot, React, MySQL, WebSocket |
+| 🐾 **[Pet Connect](https://pet-connect-frontend-eight.vercel.app/)** | A pet e-commerce platform with user and vendor workflows, products, cart, checkout, payments, real-time chat, and voice/video calling. | Spring Boot, React, MySQL, WebSocket |
 | 💰 **[Personal Finance AI Advisor](https://github.com/Poola-023/Personal-Finance-AI-Adviser)** | A personal finance platform with secure authentication, transaction and budget tracking, analytics, AI guidance, and Gmail transaction import. | Spring Boot, React, MySQL, OAuth 2.0 |
 | 🌐 **[Developer Portfolio](https://github.com/Poola-023/parthasarathi-portfolio-v2.1)** | A responsive portfolio presenting my experience, skills, and full-stack projects. | React, Vite, JavaScript |
 
